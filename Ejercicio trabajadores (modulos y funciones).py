@@ -1,0 +1,2 @@
+trabajador = []
+trabajadores = []
